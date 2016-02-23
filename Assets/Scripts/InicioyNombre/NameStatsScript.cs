@@ -7,7 +7,7 @@ public class NameStatsScript : MonoBehaviour {
 
 
 	public void changeName(string value){
-		StaticContainerOfStaticThings.myName = value;
+		
 
 	}
 

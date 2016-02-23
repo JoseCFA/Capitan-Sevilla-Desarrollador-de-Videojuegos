@@ -12,6 +12,7 @@ public class StaticContainerOfStaticThings : MonoBehaviour {
 	public static int atletismo;
 
 	public static int sumaStats(){
+		//Hola2
 		return labia + duende + logica + illicidad + concentracion + atletismo;
 	}
 	// Use this for initialization
